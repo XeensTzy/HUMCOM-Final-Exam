@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/HUMCOM-Final-Exam/static/css/main.fc0131ef.css",
+    "main.js": "/HUMCOM-Final-Exam/static/js/main.38584b80.js",
+    "static/media/css5a.png": "/HUMCOM-Final-Exam/static/media/css5a.3e6036c3f1292ba9ccb9.png",
+    "static/media/js1.png": "/HUMCOM-Final-Exam/static/media/js1.eb0860ad09e064123bc9.png",
+    "static/media/css2a.png": "/HUMCOM-Final-Exam/static/media/css2a.8ca50b5a42a8498efaab.png",
+    "static/media/Lesson7.png": "/HUMCOM-Final-Exam/static/media/Lesson7.51ab4bf3fce598318ef7.png",
+    "static/media/profile-img.svg": "/HUMCOM-Final-Exam/static/media/profile-img.3ebfc56c01784cf45721187e49981bf8.svg",
+    "static/media/css3.png": "/HUMCOM-Final-Exam/static/media/css3.52ca217f5756448f63ff.png",
+    "static/media/Lesson4.png": "/HUMCOM-Final-Exam/static/media/Lesson4.d7724b0aafd4152411ac.png",
+    "static/media/css6.png": "/HUMCOM-Final-Exam/static/media/css6.7d0d789b9ead294898b9.png",
+    "static/media/Lesson6.png": "/HUMCOM-Final-Exam/static/media/Lesson6.bfb0e30d7ab7c722e7ae.png",
+    "static/media/css2.png": "/HUMCOM-Final-Exam/static/media/css2.34086e144c8e6e5ac7ff.png",
+    "static/media/css4.png": "/HUMCOM-Final-Exam/static/media/css4.2a18fea648b8762fc270.png",
+    "static/media/Lesson3.png": "/HUMCOM-Final-Exam/static/media/Lesson3.83418915c9da4ef85a0e.png",
+    "static/media/Lesson5.png": "/HUMCOM-Final-Exam/static/media/Lesson5.8099c6c0bc11640fe6e2.png",
+    "static/media/css2b.png": "/HUMCOM-Final-Exam/static/media/css2b.596061e401818515c205.png",
+    "static/media/css5b.png": "/HUMCOM-Final-Exam/static/media/css5b.af42e267e1855c8682af.png",
+    "static/media/Lesson2.png": "/HUMCOM-Final-Exam/static/media/Lesson2.4c637e81917b6a801d36.png",
+    "static/media/Lesson1.png": "/HUMCOM-Final-Exam/static/media/Lesson1.f7d146f3f1e3de5f227f.png",
+    "static/media/js4.png": "/HUMCOM-Final-Exam/static/media/js4.17a73c08b020a2d0eea8.png",
+    "static/media/css1.png": "/HUMCOM-Final-Exam/static/media/css1.1978412be7474a99ca60.png",
+    "static/media/js2.png": "/HUMCOM-Final-Exam/static/media/js2.5f76b991be9926390f5c.png",
+    "static/media/hero.svg": "/HUMCOM-Final-Exam/static/media/hero.6aad8f49186adb73d3e904d006cb3fab.svg",
+    "static/media/js3.png": "/HUMCOM-Final-Exam/static/media/js3.97f1d46b11373db44f46.png",
+    "index.html": "/HUMCOM-Final-Exam/index.html",
+    "main.fc0131ef.css.map": "/HUMCOM-Final-Exam/static/css/main.fc0131ef.css.map",
+    "main.38584b80.js.map": "/HUMCOM-Final-Exam/static/js/main.38584b80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0131ef.css",
+    "static/js/main.38584b80.js"
+  ]
+}

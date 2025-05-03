@@ -1,0 +1,47 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(70, 116, 116);
+}
+.body {
+    border: solid 2px white;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 270px;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+
+}
+
+.header {
+    display: block;
+    font-size: 18px;
+    font-family: Arial;
+    text-decoration: underline;
+    font-weight: 1000px;
+}
+
+p {
+    display: inline-block;
+}
+
+pre {
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+}
+
+.margin {
+    margin-bottom: 25px;
+}
+
+.margin2 {
+    margin-bottom: 22px;
+}
+
+hr {
+    border: solid 1px white;
+}
