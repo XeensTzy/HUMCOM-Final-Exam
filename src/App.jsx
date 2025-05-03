@@ -53,12 +53,12 @@ const App = () => {
 
   // Just fill the content for number of boxes you want. e.g if you want 4 boxes fill up four boxes.
 
-  const febox1Title = "Web Development";
+  const febox1Title = "Continuous Learning";
   const febox1Description =
-    "I am a proficient web developer with expertise in crafting websites using a combination of different technologies";
+    "As a dedicated student of Computer Science, I am committed to building a strong foundation in technology, programming, and problem-solving. I am currently focusing on mastering key concepts in operating systems, algorithms, and software development. Through my coursework and hands-on projects, I am constantly expanding my knowledge and honing my skills to tackle complex challenges in the tech industry.";
 
-  const febox2Title = "Software Development";
-  const febox2Description = `As a MERN stack development specialist, I offer expertise in crafting robust and dynamic web applications. `;
+  const febox2Title = "Aspiring Developer";
+  const febox2Description = `As an aspiring developer, I am passionate about continuously learning and growing within the tech industry. With a focus on building both my technical skills and creative problem-solving abilities, I aim to develop software solutions that are innovative and efficient. Through self-driven projects, collaborative learning, and coursework, I am laying the groundwork to pursue a career as a software engineer, eager to contribute to impactful technological advancements. `;
 
   const febox3Title = "AI Integration";
   const febox3Description =
