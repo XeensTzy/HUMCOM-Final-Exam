@@ -18,6 +18,7 @@ const Footer = () => {
                 alt="profile-img"
                 className="w-10"
                 style={{ minWidth: "70px" }}
+                rel="noreferrer"
               />
 
               <h4 className="sm:text-lg text-white text-md pl-2 uppercase tracking-wider font-normal font-primary">
@@ -31,6 +32,7 @@ const Footer = () => {
               href="https://github.com/Mubeen-jawed"
               target="_blank"
               className="md:mr-5 mr-3 inner-shadow-effect max-[450px]:w-12 max-[450px]:h-12 max-[450px]:text-xl lg:w-14 lg:h-14 md:w-12 md:h-12 h-10 w-10 text-xl rounded-md btn-shadow md:text-2xl flex justify-center items-center"
+              rel="noreferrer"
             >
               <FiGithub />
             </a>
@@ -38,6 +40,7 @@ const Footer = () => {
               href="https://twitter.com/Mubeenjawed2"
               target="_blank"
               className="max-[450px]:w-12 max-[450px]:h-12 max-[450px]:text-xl md:mr-5 mr-3 lg:w-14 lg:h-14 max-[500px]:text-lg md:w-12 md:h-12 h-10 w-10 text-xl rounded-md btn-shadow md:text-2xl flex justify-center items-center"
+              rel="noreferrer"
             >
               <FiTwitter />
             </a>
@@ -45,6 +48,7 @@ const Footer = () => {
               href="https://www.linkedin.com/in/mubeen-jawed-7b5062231/</div>"
               target="_blank"
               className="max-[450px]:w-12 max-[450px]:h-12 max-[450px]:text-xl lg:w-14 lg:h-14 md:w-12 md:h-12 max-[500px]:text-lg h-10 w-10 text-xl rounded-md btn-shadow md:text-2xl flex justify-center items-center"
+              rel="noreferrer"
             >
               <FiLinkedin />
             </a>
@@ -59,18 +63,21 @@ const Footer = () => {
               <a
                 className=" hover:text-red-600 font-normal hover:underline transition-all duration-500"
                 href="#"
+                rel="noreferrer"
               >
                 About
               </a>
               <a
                 className="mt-3 hover:text-red-600 font-normal hover:underline transition-all duration-500"
                 href="#"
+                rel="noreferrer"
               >
                 Portfolio
               </a>
               <a
                 className="mt-3 hover:text-red-600 font-normal hover:underline transition-all duration-500"
                 href="#"
+                rel="noreferrer"
               >
                 Services
               </a>
@@ -151,12 +158,14 @@ const Footer = () => {
               <a
                 className="mt-3 hover:text-red-600 font-normal hover:underline transition-all duration-500"
                 href="#"
+                rel="noreferrer"
               >
                 Blog
               </a>
               <a
                 className="mt-3 hover:text-red-600 font-normal hover:underline transition-all duration-500"
                 href="#"
+                rel="noreferrer"
               >
                 Contact
               </a>
