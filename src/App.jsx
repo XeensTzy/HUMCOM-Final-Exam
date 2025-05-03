@@ -15,10 +15,10 @@ import Seperator from "./Elements/Seperator";
 import BackToTop from "./Elements/BackToTop";
 import Credits from "./Elements/Credits";
 import Spinner from "./Elements/Spinner";
-import ThemeToggler from "./Elements/ThemeToggler";
+
 const App = () => {
-  const [bodyClick, setBodyClick] = useState(false);
-  const [onHireMeClick, setOnHireMeClick] = useState(true);
+  const [bodyClick] = useState(false);
+  const [setOnHireMeClick] = useState(true);
 
   const [isLoading, setIsLoading] = useState(true);
 
