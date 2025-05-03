@@ -8,12 +8,12 @@ const Credits = () => {
     <>
       <div className="flex justify-center items-center w-full h-full pb-5 p-2">
         <p className="sm:text-xl text-sm text-gray-400">
-          © {currentYear}. Developed by{" Asher"}
+          © {currentYear}. Developed by{": "}
           <a
             className="hover:underline"
-            href=""
+            href="https://github.com/XeensTzy"
           >
-
+            Asher
           </a>
         </p>
       </div>
