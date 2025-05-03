@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Calculator</title>
+  <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url(https://i1.wp.com/64.media.tumblr.com/0ffa3f276b42519f58a90793a1469ffd/tumblr_pqzvmhEtZi1vvfsp9o1_540.gifv);
+            background-size: cover;
+        }
+
+        .calculator {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 300px;
+            border: 1px solid grey;
+            scale: 200%;
+            position: relative;
+        }
+
+        .input-box {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .operators {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+
+        .btn {
+            font-size: 20px;
+            padding: 10px 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f1f1f1;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+         background-color: #ddd;
+        }
+
+        button:active {
+            background-color: #ccc;
+        }
+
+        .result {
+            font-size: 18px;
+            font-weight: bold;
+            width: 100%;
+            border: 1px solid grey;
+            text-align: center;
+            border-radius: 10px;
+            padding: 10px 0;
+            background-color: rgb(211, 211, 211);
+            margin-top: 30px;
+        }
+        .cat {
+            width: 14%;
+            position: absolute;
+            top: -43px;
+        }
+  </style>
+
+  <script src="js/jsFile.js"></script>
+</head>
+<body>
+    <div class="calculator">
+        <img src="../../CSS/files/cat.gif" class="cat">
+      <input type="number" id="num1" class="input-box" placeholder="Enter first number">
+      <input type="number" id="num2" class="input-box" placeholder="Enter second number">
+      
+      <div class="operators">
+        <button class="btn" onclick="add()">+</button>
+        <button class="btn" onclick="minus()">-</button>
+        <button class="btn" onclick="times()">*</button>
+        <button class="btn" onclick="divide()">/</button>
+      </div>
+  
+      <div class="result">
+        <span id="output">Result: </span>
+      </div>
+    </div>
+  </body>
+  </html>
+</html>

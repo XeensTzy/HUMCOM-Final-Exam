@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>ExerciseCSS4: Lists</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="files/MarginCSS.css">
+        <style>
+          body {
+              color: rgb(255, 255, 255);
+              background-color: rgb(70, 116, 116);
+              font-size: 12pt;
+              font-family: Arial;
+            }
+
+            .container {
+              width: 42%;
+              margin: auto;
+              border: solid 2px white;
+              margin-top: 75px;
+              padding: 15px;
+              padding-top: 2px;
+            }
+
+            .header {
+              font-size: 14pt;
+              font-weight: bolder;
+              text-decoration: underline;
+              color: rgb(255, 119, 119);
+            }
+
+            li {
+              margin-bottom: 2px;
+            }
+
+            .bold-underline {
+              font-weight: bolder;
+              text-decoration: underline;
+              display: inline-block;
+              color: rgb(255, 119, 119);
+            }
+
+            .bold {
+              font-weight: bold;
+              display: inline-block;
+              color: rgb(255, 119, 119);
+            }
+
+            .bold-italic {
+              font-style: italic;
+              font-weight: bolder;
+              display: inline-block;
+              color: rgb(255, 119, 119);
+            }
+
+            .red {
+              color: rgb(255, 119, 119);
+              font-weight: bolder;
+              font-size: 13pt;
+
+            }
+            .ordered-list { color: #FF5733; } 
+            .unordered-list-circle { color: #33FF57; } 
+            .unordered-list-square { color: #3357FF; } 
+            .ordered-list2 { color: #FFD700; } 
+            .unordered-list-circle2 { color: #FFA500; } 
+            .unordered-list-square2 { color: #ea30c8; }
+        </style>
+    </head>
+
+    <body>
+        <div class="container-5b">
+            <h1 class="header">Winter and Snow Camping Safety for Scout Leaders</h1>
+            <h2 class="red">Topic Covered</h2>
+            <p class="bold-underline">Session 1 </p><p class="bold">&nbsp;- The Fun Stuff - </p> <p class="bold-italic">In Town, Saturday morning</p>
+            <ol class="ordered-list" type="1">
+                <li>Goals</li>
+                <li>Introductory Remarks and Outline of this Course</li>
+                <li>Round Robin</li>
+                    <ul class="unordered-list-circle" type="circle">
+                        <li class="unordered-list-circle">Clothing</li>
+                        <li class="unordered-list-circle">Sleeping Materials</li>
+                            <ul class="unordered-list-square" type="square">
+                                <li class="unordered-list-square"><i>Sleeping Bags;</i></li>
+                                <li class="unordered-list-square"><i>Sleeping Pads; and</i></li>
+                                <li class="unordered-list-square"><i>Other Sleeping Gear</i></li>
+                            </ul>
+                        <li class="unordered-list-circle">Tents and Other Camp</li>
+                    </ul>
+                <li>Trip Planning</li>
+                <li>Winter Driving</li>
+            </ol>
+
+            
+            <p class="bold-underline">Session 2 </p><p class="bold">&nbsp;- Serious Concerns - </p> <p class="bold-italic">In Town, Saturday morning</p>
+            <ol class="ordered-list2" type="1">
+                <li>Further Administrative Details</li>
+                <li>Overview of Problems Unique to Winter and Snow Activities</li>
+                <li>Round Robin</li>
+                    <ul class="unordered-list-circle2" type="circle">
+                        <li class="unordered-list-circle2">Mininum Impact Camping and Sanitation</li>
+                        <li class="unordered-list-circle2">Snow Travel and Intro To</li>
+                            <ul class="unordered-list-square2" type="square">
+                                <li>Skis</li>
+                                <li>Snowshoes</li>
+                                <li>Sleds</li>
+                            </ul>
+                        <li class="unordered-list-circle2">Weather - Some Considerations on how winter differs from Summer Trips</li>
+                        <li class="unordered-list-circle2">Avalanche Dangers</li>
+                    </ul>
+                <li>Navigating - Special Considerations in land navigation in winter conditions</li>
+                <li>Dealing with Winter Emergencies </li>
+                <li>Other Problems to Consider and Wrap-Up of Session</li>
+            </ol>
+        </div>
+    </body>
+</html>
