@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HUMCOM-Final-Exam/static/css/main.9560c405.css",
-    "main.js": "/HUMCOM-Final-Exam/static/js/main.f1574bb3.js",
+    "main.css": "/HUMCOM-Final-Exam/static/css/main.6744cca3.css",
+    "main.js": "/HUMCOM-Final-Exam/static/js/main.91aabf2e.js",
     "static/media/css5a.png": "/HUMCOM-Final-Exam/static/media/css5a.3e6036c3f1292ba9ccb9.png",
     "static/media/js1.png": "/HUMCOM-Final-Exam/static/media/js1.eb0860ad09e064123bc9.png",
     "static/media/css2a.png": "/HUMCOM-Final-Exam/static/media/css2a.8ca50b5a42a8498efaab.png",
@@ -25,11 +25,11 @@
     "static/media/hero.svg": "/HUMCOM-Final-Exam/static/media/hero.6aad8f49186adb73d3e904d006cb3fab.svg",
     "static/media/js3.png": "/HUMCOM-Final-Exam/static/media/js3.97f1d46b11373db44f46.png",
     "index.html": "/HUMCOM-Final-Exam/index.html",
-    "main.9560c405.css.map": "/HUMCOM-Final-Exam/static/css/main.9560c405.css.map",
-    "main.f1574bb3.js.map": "/HUMCOM-Final-Exam/static/js/main.f1574bb3.js.map"
+    "main.6744cca3.css.map": "/HUMCOM-Final-Exam/static/css/main.6744cca3.css.map",
+    "main.91aabf2e.js.map": "/HUMCOM-Final-Exam/static/js/main.91aabf2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9560c405.css",
-    "static/js/main.f1574bb3.js"
+    "static/css/main.6744cca3.css",
+    "static/js/main.91aabf2e.js"
   ]
 }
