@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HUMCOM-Final-Exam/static/css/main.cbd54b66.css",
-    "main.js": "/HUMCOM-Final-Exam/static/js/main.eed6a72b.js",
+    "main.js": "/HUMCOM-Final-Exam/static/js/main.2ba34623.js",
     "static/media/css5a.png": "/HUMCOM-Final-Exam/static/media/css5a.3e6036c3f1292ba9ccb9.png",
     "static/media/js1.png": "/HUMCOM-Final-Exam/static/media/js1.eb0860ad09e064123bc9.png",
     "static/media/css2a.png": "/HUMCOM-Final-Exam/static/media/css2a.8ca50b5a42a8498efaab.png",
@@ -41,10 +41,10 @@
     "static/media/js3.png": "/HUMCOM-Final-Exam/static/media/js3.97f1d46b11373db44f46.png",
     "index.html": "/HUMCOM-Final-Exam/index.html",
     "main.cbd54b66.css.map": "/HUMCOM-Final-Exam/static/css/main.cbd54b66.css.map",
-    "main.eed6a72b.js.map": "/HUMCOM-Final-Exam/static/js/main.eed6a72b.js.map"
+    "main.2ba34623.js.map": "/HUMCOM-Final-Exam/static/js/main.2ba34623.js.map"
   },
   "entrypoints": [
     "static/css/main.cbd54b66.css",
-    "static/js/main.eed6a72b.js"
+    "static/js/main.2ba34623.js"
   ]
 }
