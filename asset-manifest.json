@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HUMCOM-Final-Exam/static/css/main.cbd54b66.css",
-    "main.js": "/HUMCOM-Final-Exam/static/js/main.248eef42.js",
+    "main.js": "/HUMCOM-Final-Exam/static/js/main.eed6a72b.js",
     "static/media/css5a.png": "/HUMCOM-Final-Exam/static/media/css5a.3e6036c3f1292ba9ccb9.png",
     "static/media/js1.png": "/HUMCOM-Final-Exam/static/media/js1.eb0860ad09e064123bc9.png",
     "static/media/css2a.png": "/HUMCOM-Final-Exam/static/media/css2a.8ca50b5a42a8498efaab.png",
@@ -10,6 +10,20 @@
     "static/media/css3.png": "/HUMCOM-Final-Exam/static/media/css3.52ca217f5756448f63ff.png",
     "static/media/Lesson4.png": "/HUMCOM-Final-Exam/static/media/Lesson4.d7724b0aafd4152411ac.png",
     "static/media/css6.png": "/HUMCOM-Final-Exam/static/media/css6.7d0d789b9ead294898b9.png",
+    "static/media/lec8.jpg": "/HUMCOM-Final-Exam/static/media/lec8.0b9b4b5842efc60a9e50.jpg",
+    "static/media/lec14.jpg": "/HUMCOM-Final-Exam/static/media/lec14.34fcda317c9e315ec6b7.jpg",
+    "static/media/lec11.jpg": "/HUMCOM-Final-Exam/static/media/lec11.8ed1d3af9ba995d4bfaa.jpg",
+    "static/media/lec1.jpg": "/HUMCOM-Final-Exam/static/media/lec1.494617c9356be444fd64.jpg",
+    "static/media/lec5.jpg": "/HUMCOM-Final-Exam/static/media/lec5.9d930734f31c629c0ff2.jpg",
+    "static/media/lec3.jpg": "/HUMCOM-Final-Exam/static/media/lec3.788a1537b85d5da0c625.jpg",
+    "static/media/lec4.jpg": "/HUMCOM-Final-Exam/static/media/lec4.2dedde10e2b339023742.jpg",
+    "static/media/lec2.jpg": "/HUMCOM-Final-Exam/static/media/lec2.57152ec3415dafcaf6ba.jpg",
+    "static/media/lec7.jpg": "/HUMCOM-Final-Exam/static/media/lec7.502759912f1d909c6b38.jpg",
+    "static/media/lec13.jpg": "/HUMCOM-Final-Exam/static/media/lec13.af978d29e75d7e456b8b.jpg",
+    "static/media/lec12.jpg": "/HUMCOM-Final-Exam/static/media/lec12.94bae65cd631ed8b936d.jpg",
+    "static/media/lec9.jpg": "/HUMCOM-Final-Exam/static/media/lec9.85caf992db932548b1c4.jpg",
+    "static/media/lec10.jpg": "/HUMCOM-Final-Exam/static/media/lec10.ea3b17d6122a97045a8b.jpg",
+    "static/media/lec6.jpg": "/HUMCOM-Final-Exam/static/media/lec6.e9f1efe8f35041a2146a.jpg",
     "static/media/Lesson6.png": "/HUMCOM-Final-Exam/static/media/Lesson6.bfb0e30d7ab7c722e7ae.png",
     "static/media/css2.png": "/HUMCOM-Final-Exam/static/media/css2.34086e144c8e6e5ac7ff.png",
     "static/media/css4.png": "/HUMCOM-Final-Exam/static/media/css4.2a18fea648b8762fc270.png",
@@ -22,14 +36,15 @@
     "static/media/js4.png": "/HUMCOM-Final-Exam/static/media/js4.17a73c08b020a2d0eea8.png",
     "static/media/css1.png": "/HUMCOM-Final-Exam/static/media/css1.1978412be7474a99ca60.png",
     "static/media/js2.png": "/HUMCOM-Final-Exam/static/media/js2.5f76b991be9926390f5c.png",
+    "static/media/lec15.jpg": "/HUMCOM-Final-Exam/static/media/lec15.c965a8c9b509c0ee70ef.jpg",
     "static/media/hero.svg": "/HUMCOM-Final-Exam/static/media/hero.6aad8f49186adb73d3e904d006cb3fab.svg",
     "static/media/js3.png": "/HUMCOM-Final-Exam/static/media/js3.97f1d46b11373db44f46.png",
     "index.html": "/HUMCOM-Final-Exam/index.html",
     "main.cbd54b66.css.map": "/HUMCOM-Final-Exam/static/css/main.cbd54b66.css.map",
-    "main.248eef42.js.map": "/HUMCOM-Final-Exam/static/js/main.248eef42.js.map"
+    "main.eed6a72b.js.map": "/HUMCOM-Final-Exam/static/js/main.eed6a72b.js.map"
   },
   "entrypoints": [
     "static/css/main.cbd54b66.css",
-    "static/js/main.248eef42.js"
+    "static/js/main.eed6a72b.js"
   ]
 }
